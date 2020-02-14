@@ -1,6 +1,8 @@
 # LeanTaasTest
 Lean Taas Assignment with test cases implemented in pytest for given questions
 
+This is a pycharm project which can be imported and used to see the output.
+
 Procedure followed to write the tests
 
 1. To simulate the request, mock api request was created with a response of 200 and expected JSON as output. 
