@@ -12,7 +12,8 @@ Please refer to input_response.txt and mock_leantaas_request.py.
         are the options for sports q1.
         Solution:test_check_sports_has_given_options
         
-3.Code flow:
+3.
+Code flow:
 Created a utility function get_question_dic_for_subject which returns a dictionary for the given subjects as input. 
 The utility function is used in fixture :
         1) get_question_dict_for_all_subjects - This is used in most of the tests as it passes both given parameters
